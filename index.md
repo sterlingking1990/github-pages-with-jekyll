@@ -1,4 +1,5 @@
-| **EDUCATION** | **TECH** | **SPORT** | **VR** | **AI**|
+| **EDUCATION** | **TECH** | **SPORT** | **VR** | **AI** |
+| ------------- |----------|-----------|--------|--------|
 
 >I'm glad you are here :sparkles: I plan to talk about ...
 
