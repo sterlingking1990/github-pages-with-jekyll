@@ -1,7 +1,7 @@
 
 ---
-title : "My First Blog"
-date :   2020-04-21
+title: "My First Blog"
+date: 2020-04-21
 ---
 
 
